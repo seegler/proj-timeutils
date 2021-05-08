@@ -1,0 +1,13 @@
+*.bin
+*.class
+**/target
+**/out
+*.out
+.project
+.classpath
+.swp
+**/.idea
+/repo/**
+**/dist
+*.iml
+stale_outputs_checked
